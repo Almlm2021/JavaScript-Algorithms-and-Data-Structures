@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40ef6e7c-237b-4604-8e90-47e0a4468bec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JavaScript Algorithms and Data Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Coloring/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Coloring/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Flexbox/photoGallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Pseudo Slector/balanceSheet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Pseudo Slector/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Css Box Model/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Css Box Model/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Css Positioning/CatPainting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Css Positioning/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssAnimation/FerrisWheel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssAnimation/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssGrid/Magazine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssGrid/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssStyling/Menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssStyling/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssTransform/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssTransform/buildingAPinguin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssVariables/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CssVariables/citySky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Documentation/ResponsiveWebDesign.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/HTML Forms/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/HTML Forms/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/HtmlBasics/CatPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/HtmlCssAccessibilty/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/HtmlCssAccessibilty/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Project3/TechnicalDocumentationPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Project3/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Project4/ProductLandingPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Project4/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Project5/Portfolio Webpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Project5/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Typography/NutritionLabelWebpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/Typography/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/WebDesign/Piano.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/WebDesign/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/project1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/project1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS Coloring/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS Coloring/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS Flexbox/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS Flexbox/photoGallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS Pseudo Slector/balanceSheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS Pseudo Slector/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Css Box Model/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Css Box Model/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Css Positioning/CatPainting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Css Positioning/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssAnimation/FerrisWheel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssAnimation/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssGrid/Magazine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssGrid/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssStyling/Menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssStyling/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssTransform/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssTransform/buildingAPinguin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssVariables/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CssVariables/citySky.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML Forms/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML Forms/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HtmlBasics/CatPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/TechnicalDocumentationPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/ProductLandingPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project4/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/Portfolio Webpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project5/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typography/NutritionLabelWebpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typography/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDesign/Piano.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDesign/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/styles.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2s5hvYf4l5OPRzE54Ll8THsQ3f0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ef6e7c-237b-4604-8e90-47e0a4468bec" name="Changes" comment="" />
+      <created>1737751573336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737751573336</updated>
+      <workItem from="1737751574413" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
