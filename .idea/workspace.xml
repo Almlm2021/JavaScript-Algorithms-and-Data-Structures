@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ef6e7c-237b-4604-8e90-47e0a4468bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaScript Algorithms and Data Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Coloring/Index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Coloring/styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/CSS Flexbox/index.html" afterDir="false" />
@@ -46,6 +43,7 @@
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/WebDesign/Styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/project1/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/project1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CSS Coloring/Index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CSS Coloring/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CSS Flexbox/index.html" beforeDir="false" />
@@ -71,6 +69,7 @@
       <change beforePath="$PROJECT_DIR$/../HtmlBasics/CatPage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/TechnicalDocumentationPage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project4/ProductLandingPage.html" beforeDir="false" />
@@ -126,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737751573336</updated>
-      <workItem from="1737751574413" duration="384000" />
+      <workItem from="1737751574413" duration="1999000" />
     </task>
     <servers />
   </component>
