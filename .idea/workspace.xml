@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ef6e7c-237b-4604-8e90-47e0a4468bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicsJS/RolePlayingGame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicsJS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicsJS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugging/RandomBackgroundColorChanger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugging/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugging/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/ResponsiveWebDesign.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/modules.xml" afterDir="false" />
@@ -77,7 +77,6 @@
       <change beforePath="$PROJECT_DIR$/../HtmlBasics/CatPage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/TechnicalDocumentationPage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project4/ProductLandingPage.html" beforeDir="false" />
@@ -154,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737751573336</updated>
       <workItem from="1737751574413" duration="3381000" />
-      <workItem from="1737837340784" duration="3305000" />
+      <workItem from="1737837340784" duration="5332000" />
     </task>
     <servers />
   </component>
