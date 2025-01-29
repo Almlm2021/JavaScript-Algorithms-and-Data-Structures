@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ef6e7c-237b-4604-8e90-47e0a4468bec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ReviewDomManipulation/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReviewDomManipulation/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/ResponsiveWebDesign.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/modules.xml" afterDir="false" />
@@ -74,6 +76,7 @@
       <change beforePath="$PROJECT_DIR$/../HtmlBasics/CatPage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HtmlCssAccessibilty/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/TechnicalDocumentationPage.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project4/ProductLandingPage.html" beforeDir="false" />
@@ -121,6 +124,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.CalorieCounter.js.executor": "Run",
     "Node.js.GradebookApp.js.executor": "Run",
     "Node.js.Pyramid.js.executor": "Run",
     "Node.js.RandomBackgroundColorChanger.js.executor": "Run",
@@ -153,6 +157,7 @@
       <updated>1737751573336</updated>
       <workItem from="1737751574413" duration="3381000" />
       <workItem from="1737837340784" duration="7271000" />
+      <workItem from="1738167891450" duration="2276000" />
     </task>
     <servers />
   </component>
