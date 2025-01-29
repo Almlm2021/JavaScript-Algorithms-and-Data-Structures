@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ef6e7c-237b-4604-8e90-47e0a4468bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Debugging/RandomBackgroundColorChanger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Debugging/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Debugging/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/ResponsiveWebDesign.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ResponsiveWebDesign/.idea/modules.xml" afterDir="false" />
@@ -123,8 +120,10 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
     "Node.js.GradebookApp.js.executor": "Run",
     "Node.js.Pyramid.js.executor": "Run",
+    "Node.js.RandomBackgroundColorChanger.js.executor": "Run",
     "Node.js.RolePlayingGame.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -153,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737751573336</updated>
       <workItem from="1737751574413" duration="3381000" />
-      <workItem from="1737837340784" duration="5332000" />
+      <workItem from="1737837340784" duration="7271000" />
     </task>
     <servers />
   </component>
