@@ -101,7 +101,7 @@ const playSong = (id) => {
     highlightCurrentSong();
     setPlayerDisplay();
     setPlayButtonAccessibleText();
-    audio.play();
+    audio.play().then(() => {});
 };
 
 const pauseSong = () => {
@@ -123,7 +123,8 @@ const playNextSong = () => {
 };
 
 const playPreviousSong = () => {
-    if (userData?.currentSong === null) return;
+    if (userData?.currentSong === null) {}
+
     else {
         const currentSongIndex = getCurrentSongIndex();
         const previousSong = userData?.songs[currentSongIndex - 1];
@@ -183,8 +184,8 @@ const highlightCurrentSong = () => {
 };
 
 const renderSongs = (array) => {
-    const songsHTML = array
-        .map((song)=> {
+    playlistSongs.innerHTML = array
+        .map((song) => {
             return `
       <li id="song-${song.id}" class="playlist-song">
       <button class="playlist-song-info" onclick="playSong(${song.id})">
@@ -200,8 +201,6 @@ const renderSongs = (array) => {
       `;
         })
         .join("");
-
-    playlistSongs.innerHTML = songsHTML;
 
     if (userData?.songs.length === 0) {
         const resetButton = document.createElement("button");
@@ -220,7 +219,7 @@ const renderSongs = (array) => {
             resetButton.remove();
         });
 
-    };
+    }
 
 };
 
